@@ -1,0 +1,24 @@
+{
+    "name": "hustest-interfaces",
+    "version": "1.0.0",
+    "description": "interfaces",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc"
+    },
+    "main": "index.js",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/atasoyh/testPaclage.git"
+    },
+    "author": "Huseyin ATasoy",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/atasoyh/testPaclage/issues"
+    },
+    "homepage": "https://github.com/atasoyh/testPaclage#readme",
+    "devDependencies": {
+        "typescript": "^3.7.5"
+    }
+}
