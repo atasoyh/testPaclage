@@ -5,10 +5,10 @@
         "declaration": true,
         "outDir": "./dist"
     },
-    "include": ["lib/**/*"],
+    "include": ["lib/**/*", "index.ts"],
     "name": "hwrld",
     "version": "1.0.0",
     "description": "Can log \"hello world\" and \"goodbye world\" to the console!",
-    "main": "lib/index.js",
-    "types": "lib/index.d.ts"
+    "main": "index.js",
+    "types": "index.d.ts"
 }
